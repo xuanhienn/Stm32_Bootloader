@@ -4,6 +4,7 @@
  *  Created on: Dec 19, 2023
  *      Author: Admin
  */
+#include <stdint.h>
 
 #ifndef INC_FOTA_H_
 #define INC_FOTA_H_
